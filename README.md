@@ -28,43 +28,6 @@ You only need:
 Optional but helpful:
 - VS Code (or any code editor)
 
----
-
-## 📂 Repository Structure
-
-```
-learn-js/
-│
-├── 01-basics/
-│   ├── variables.js
-│   ├── data-types.js
-│   └── operators.js
-│
-├── 02-control-flow/
-│   ├── conditionals.js
-│   └── loops.js
-│
-├── 03-functions/
-│   ├── functions.js
-│   └── arrow-functions.js
-│
-├── 04-objects-arrays/
-│   ├── arrays.js
-│   └── objects.js
-│
-├── 05-dom/
-│   ├── dom-basics.js
-│   └── events.js
-│
-├── 06-projects/
-│   ├── number-guesser/
-│   └── todo-list/
-│
-└── README.md
-```
-
----
-
 ## 🧩 Topics Covered
 
 ### 1️⃣ JavaScript Basics
